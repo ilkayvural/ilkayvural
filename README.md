@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İlkay</h1>
-<img src= "https://intl-blog.imgix.net/wp-content/uploads/2021/10/what-is-software-CA-Capterra-Header.png?auto=format%2Cenhance">
+<img src= "https://intl-blog.imgix.net/wp-content/uploads/2021/10/what-is-software-CA-Capterra-Header.png?auto=format%2Cenhance style="width: 433px; height: 150px; margin: 4.04467px 0px;"">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@vural_ilkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vural_ilkay" height="30" width="40" /></a>
