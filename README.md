@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İlkay</h1>
-<img src="https://i.pinimg.com/originals/b7/2a/7f/b72a7f5e8529d4fe70508b649d6abb2b.gif" "style="width: 433px; height: 324.75px; margin: 0px;">
+<img src="https://i.pinimg.com/originals/b7/2a/7f/b72a7f5e8529d4fe70508b649d6abb2b.gif" align="right" "style="width: 433px; height: 324.75px; margin: 0px;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@vural_ilkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vural_ilkay" height="30" width="40" /></a>
